@@ -1,0 +1,14 @@
+/home/diegonava/Workspace/C#/Methods/bin/Debug/net8.0/Methods
+/home/diegonava/Workspace/C#/Methods/bin/Debug/net8.0/Methods.deps.json
+/home/diegonava/Workspace/C#/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/home/diegonava/Workspace/C#/Methods/bin/Debug/net8.0/Methods.dll
+/home/diegonava/Workspace/C#/Methods/bin/Debug/net8.0/Methods.pdb
+/home/diegonava/Workspace/C#/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/diegonava/Workspace/C#/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/home/diegonava/Workspace/C#/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/home/diegonava/Workspace/C#/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/home/diegonava/Workspace/C#/Methods/obj/Debug/net8.0/Methods.dll
+/home/diegonava/Workspace/C#/Methods/obj/Debug/net8.0/refint/Methods.dll
+/home/diegonava/Workspace/C#/Methods/obj/Debug/net8.0/Methods.pdb
+/home/diegonava/Workspace/C#/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/home/diegonava/Workspace/C#/Methods/obj/Debug/net8.0/ref/Methods.dll

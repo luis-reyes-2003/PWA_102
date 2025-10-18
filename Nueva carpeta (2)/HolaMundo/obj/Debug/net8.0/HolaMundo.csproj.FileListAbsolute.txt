@@ -1,0 +1,14 @@
+/home/diegonava/Workspace/C#/HolaMundo/bin/Debug/net8.0/HolaMundo
+/home/diegonava/Workspace/C#/HolaMundo/bin/Debug/net8.0/HolaMundo.deps.json
+/home/diegonava/Workspace/C#/HolaMundo/bin/Debug/net8.0/HolaMundo.runtimeconfig.json
+/home/diegonava/Workspace/C#/HolaMundo/bin/Debug/net8.0/HolaMundo.dll
+/home/diegonava/Workspace/C#/HolaMundo/bin/Debug/net8.0/HolaMundo.pdb
+/home/diegonava/Workspace/C#/HolaMundo/obj/Debug/net8.0/HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/diegonava/Workspace/C#/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfoInputs.cache
+/home/diegonava/Workspace/C#/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfo.cs
+/home/diegonava/Workspace/C#/HolaMundo/obj/Debug/net8.0/HolaMundo.csproj.CoreCompileInputs.cache
+/home/diegonava/Workspace/C#/HolaMundo/obj/Debug/net8.0/HolaMundo.dll
+/home/diegonava/Workspace/C#/HolaMundo/obj/Debug/net8.0/refint/HolaMundo.dll
+/home/diegonava/Workspace/C#/HolaMundo/obj/Debug/net8.0/HolaMundo.pdb
+/home/diegonava/Workspace/C#/HolaMundo/obj/Debug/net8.0/HolaMundo.genruntimeconfig.cache
+/home/diegonava/Workspace/C#/HolaMundo/obj/Debug/net8.0/ref/HolaMundo.dll
