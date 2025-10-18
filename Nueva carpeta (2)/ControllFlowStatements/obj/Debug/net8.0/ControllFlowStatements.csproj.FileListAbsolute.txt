@@ -1,0 +1,14 @@
+/home/diegonava/Workspace/C#/ControllFlowStatements/bin/Debug/net8.0/ControllFlowStatements
+/home/diegonava/Workspace/C#/ControllFlowStatements/bin/Debug/net8.0/ControllFlowStatements.deps.json
+/home/diegonava/Workspace/C#/ControllFlowStatements/bin/Debug/net8.0/ControllFlowStatements.runtimeconfig.json
+/home/diegonava/Workspace/C#/ControllFlowStatements/bin/Debug/net8.0/ControllFlowStatements.dll
+/home/diegonava/Workspace/C#/ControllFlowStatements/bin/Debug/net8.0/ControllFlowStatements.pdb
+/home/diegonava/Workspace/C#/ControllFlowStatements/obj/Debug/net8.0/ControllFlowStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/diegonava/Workspace/C#/ControllFlowStatements/obj/Debug/net8.0/ControllFlowStatements.AssemblyInfoInputs.cache
+/home/diegonava/Workspace/C#/ControllFlowStatements/obj/Debug/net8.0/ControllFlowStatements.AssemblyInfo.cs
+/home/diegonava/Workspace/C#/ControllFlowStatements/obj/Debug/net8.0/ControllFlowStatements.csproj.CoreCompileInputs.cache
+/home/diegonava/Workspace/C#/ControllFlowStatements/obj/Debug/net8.0/ControllFlowStatements.dll
+/home/diegonava/Workspace/C#/ControllFlowStatements/obj/Debug/net8.0/refint/ControllFlowStatements.dll
+/home/diegonava/Workspace/C#/ControllFlowStatements/obj/Debug/net8.0/ControllFlowStatements.pdb
+/home/diegonava/Workspace/C#/ControllFlowStatements/obj/Debug/net8.0/ControllFlowStatements.genruntimeconfig.cache
+/home/diegonava/Workspace/C#/ControllFlowStatements/obj/Debug/net8.0/ref/ControllFlowStatements.dll
