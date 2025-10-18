@@ -1,0 +1,14 @@
+/home/diegonava/Workspace/C#/Variables/bin/Debug/net8.0/Variables
+/home/diegonava/Workspace/C#/Variables/bin/Debug/net8.0/Variables.deps.json
+/home/diegonava/Workspace/C#/Variables/bin/Debug/net8.0/Variables.runtimeconfig.json
+/home/diegonava/Workspace/C#/Variables/bin/Debug/net8.0/Variables.dll
+/home/diegonava/Workspace/C#/Variables/bin/Debug/net8.0/Variables.pdb
+/home/diegonava/Workspace/C#/Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/diegonava/Workspace/C#/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
+/home/diegonava/Workspace/C#/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
+/home/diegonava/Workspace/C#/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/home/diegonava/Workspace/C#/Variables/obj/Debug/net8.0/Variables.dll
+/home/diegonava/Workspace/C#/Variables/obj/Debug/net8.0/refint/Variables.dll
+/home/diegonava/Workspace/C#/Variables/obj/Debug/net8.0/Variables.pdb
+/home/diegonava/Workspace/C#/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
+/home/diegonava/Workspace/C#/Variables/obj/Debug/net8.0/ref/Variables.dll
